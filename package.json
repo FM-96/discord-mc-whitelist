@@ -1,0 +1,27 @@
+{
+  "name": "discord-mc-whitelist",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FM-96/discord-mc-whitelist.git"
+  },
+  "author": "Felix Müllner",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FM-96/discord-mc-whitelist/issues"
+  },
+  "homepage": "https://github.com/FM-96/discord-mc-whitelist#readme",
+  "dependencies": {
+    "discord.js": "^13.6.0",
+    "dotenv": "^16.0.0",
+    "rcon-client": "^4.2.3"
+  },
+  "devDependencies": {
+    "eslint": "^8.15.0"
+  }
+}
